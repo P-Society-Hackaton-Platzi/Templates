@@ -1,3 +1,9 @@
 .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 30vw;
+    padding: 10px 30px 20px 30px;
+    border: 1px solid #B8BCC5;
+    border-radius: 8px;
 }
